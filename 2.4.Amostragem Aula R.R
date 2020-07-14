@@ -1,4 +1,3 @@
-#Formacao Cientista de Dados - Fernando Amaral
 amostra = sample(c(0,1), 150, replace = TRUE, prob=c(0.5,0.5))
 amostra
 

@@ -1,5 +1,3 @@
-#Formacao Cientista de Dados - Fernando Amaral
-
 pnorm(6,8,2)
 
 pnorm(6,8,2, lower.tail=F)

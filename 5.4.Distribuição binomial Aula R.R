@@ -1,5 +1,3 @@
-#Formacao Cientista de Dados - Fernando Amaral
-
 dbinom(3,5,0.5)
 
 dbinom(0,4,0.25)
